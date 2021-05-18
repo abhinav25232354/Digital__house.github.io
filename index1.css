@@ -1,0 +1,21 @@
+#heroimg{
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+}
+#herosection{
+    background: linear-gradient(180deg,black,white,white,white,white,white,white,white,white,white,white,white,white,white,white,white,white, white, white);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 0% 100%);
+}
+#header{
+    background-color: black;
+    color: white;
+}
+.logo{
+    color: white;
+    margin-left: 10px;
+    font-size: larger;
+}
+#logo{
+    color: black;
+}
